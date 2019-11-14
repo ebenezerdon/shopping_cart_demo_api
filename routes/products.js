@@ -42,29 +42,17 @@ router.get('/', (req, res, next) => {
         imageUrl: 'http://res.cloudinary.com/learnground/image/upload/v1551993159/w2jnj2oh47yids0skskl.jpg'
       },
       {
-        id: {},
-        name: '',
-        price: '',
-        imageUrl: ''
+        id: 7,
+        name: 'Long Sleeve Hooded T Shirt',
+        price: 2999,
+        imageUrl: 'http://res.cloudinary.com/learnground/image/upload/v1551992156/hrqinxdgqaxeqwdqbll9.jpg'
       },
       {
-        id: {},
-        name: '',
-        price: '',
-        imageUrl: ''
-      },
-      {
-        id: {},
-        name: '',
-        price: '',
-        imageUrl: ''
-      },
-      {
-        id: {},
-        name: '',
-        price: '',
-        imageUrl: ''
-      },
+        id: 8,
+        name: 'Generic Colourful Face Towels',
+        price: 12350,
+        imageUrl: 'http://res.cloudinary.com/learnground/image/upload/v1551992462/cxockdhiymgit9vmb1lo.jpg'
+      }
     ]
   })
 });
